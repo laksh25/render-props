@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.counter {
+  color: hotpink;
+}
+
+.btn {
+  height: 2rem;
+  width: 2rem;
+  color: hotpink;
+  font-size: 24px;
+  border: 1px solid transparent;
+  cursor: pointer;
+}
